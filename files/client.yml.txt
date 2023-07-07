@@ -1,0 +1,6 @@
+
+PLAY [Playbook of client initialization] ***************************************
+skipping: no hosts matched
+
+PLAY RECAP *********************************************************************
+
